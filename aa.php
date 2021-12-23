@@ -1854,7 +1854,7 @@ acf.data = {"language":"id","select2L10n":{"matches_1":"Satu hasil tersedia, tek
 acf.doAction( 'prepare' );
 </script>
 
-<script src="https://chat.premiumkan.com/history.js"></script>
+
     <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,4367533,4,0,0,0,00010000']);
